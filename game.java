@@ -1,10 +1,10 @@
-
-
-
-
-
-
-
+import java.awt.CardLayout;
+import java.awt.Color;
+import java.awt.Container;
+import java.awt.Image;
+import javax.swing.JPanel;
+import javax.swing.ImageIcon;
+import javax.swing.JFrame;
 
 
 public class Game extends JFrame{
